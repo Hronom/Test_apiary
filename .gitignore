@@ -1,24 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-### Maven template
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-
-
-### NetBeans template
-nbproject/private/
-build/
-nbbuild/
-dist/
-nbdist/
-nbactions.xml
-nb-configuration.xml
-.nb-gradle/
-
-
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
 
@@ -68,42 +48,27 @@ crashlytics.properties
 crashlytics-build.properties
 
 
-### Eclipse template
-*.pydevproject
-.metadata
-.gradle
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/
-.loadpath
+### Maven template
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
 
-# Eclipse Core
-.project
 
-# External tool builders
-.externalToolBuilders/
+### Java template
+*.class
 
-# Locally stored "Eclipse launch configurations"
-*.launch
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# CDT-specific
-.cproject
+# Package Files #
+*.jar
+*.war
+*.ear
 
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
-
-# PDT-specific
-.buildpath
-
-# sbteclipse plugin
-.target
-
-# TeXlipse plugin
-.texlipse
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
 
 
